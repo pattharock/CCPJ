@@ -9,6 +9,6 @@ public class Fib1 {
     }
 
     public static void main(String[] args) {
-        System.out.println("Fib(9): " + Integer.toString(fib1(9)));
+        System.out.println("fib(20): " + fib1(20));
     }
 }

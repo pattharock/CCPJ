@@ -15,6 +15,6 @@ public class Fib2 {
     }
 
     public static void main(String[] args) {
-        System.out.println("Fib(30): " +  fib(30));
+        System.out.println("fib(20): " +  fib(20));
     }
 }
